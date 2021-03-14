@@ -1,0 +1,7 @@
+[[analyzers]]
+name = "secrets"
+enabled = true
+
+[[analyzers]]
+name = "github.com/srijan-deepsource/rahul"
+enabled = true
