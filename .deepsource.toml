@@ -5,9 +5,5 @@ name = "secrets"
 enabled = true
 
 [[analyzers]]
-name = "github.com/srijan-deepsource/rahul"
-enabled = true
-
-[[analyzers]]
-name = "github.com/srijan-deepsource/earth"
+name = "github.com/sourya-deepsource/rahul"
 enabled = true
