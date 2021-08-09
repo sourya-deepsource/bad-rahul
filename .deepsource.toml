@@ -7,3 +7,4 @@ enabled = true
 [[analyzers]]
 name = "github.com/sourya-deepsource/rahul"
 enabled = true
+
