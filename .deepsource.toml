@@ -8,3 +8,6 @@ enabled = true
 name = "github.com/sourya-deepsource/rahul"
 enabled = true
 
+[[analyzers]]
+name = "github.com/srijan-deepsource/demo-macro"
+enabled = true
