@@ -5,5 +5,5 @@ name = "secrets"
 enabled = true
 
 [[analyzers]]
-name = "github.com/srijan-deepsource/demo-macro"
+name = "github.com/sourya-deepsource/demo-macro"
 enabled = true
